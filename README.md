@@ -4,7 +4,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 ## Table of Contents - 
 
-- ✅ Code samples in .NET Core and Vuexxxx--
+- ✅ Code samples in .NET Core and Vue
 - 🧠 Architecture diagrams for distributed systems
 - 📚 Case studies from real-world projects
 - 📖 Technical documentation for onboarding and deployment
