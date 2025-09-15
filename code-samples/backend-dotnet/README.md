@@ -97,7 +97,7 @@ public sealed class BrandController : ControllerBase
 
   <img width="431" height="512" alt="image" src="https://github.com/user-attachments/assets/d3834ee7-ae6f-4093-a12a-bc0320c992c7" />
 
-
+<br><br>
 
 
 :wrench: Testability: “By abstracting the DbContext, we can inject mock implementations for unit testing without hitting the actual database.”
