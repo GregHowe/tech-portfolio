@@ -1,5 +1,19 @@
 
 🧩 Code Samples in Vue
+### 🧩 Code Samples in Vue
+
+This section showcases my frontend development work using **Vue 3**, **TypeScript**, and **Vite**, with a focus on dynamic component rendering and schema-driven layouts.  
+The samples reflect my ability to build responsive, customizable interfaces that adapt to user input in real time — ideal for platforms like Core.Builder, where users generate commerce pages based on templates.
+
+Key highlights include:
+- **Schema-driven rendering** using `v-for` and `v-model` for dynamic form generation  
+- **Centralized state management** via Vuex and `mapState` for predictable data flow  
+- **Responsive layouts** using `v-row` and `v-col` for grid-based design  
+- **Component modularity** for maintainability and reuse across the platform  
+- **Integration with REST APIs** and backend services
+
+These examples demonstrate how I combine frontend precision with architectural clarity to deliver scalable, user-friendly interfaces.
+
 
 
 📦 Full repo: [commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes/tree/main/Core.Builder)
