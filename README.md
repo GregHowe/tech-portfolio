@@ -21,7 +21,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - 🧠 Architecture diagrams for distributed systems
 
-  **README showcasing Architecture diagrams** <a href="code-samples/backend-dotnet/README.md" target="_blank">Architecture diagrams</a>
+  **README showcasing Architecture diagrams** <a href="architecture-diagrams/README.md" target="_blank">Architecture diagrams</a>
 <br><br>
   
 - 📚 Case studies from real-world projects
@@ -32,6 +32,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 - 📖 Technical documentation for onboarding and deployment
 
   **README showcasing Technical documentation** <a href="code-samples/backend-dotnet/README.md" target="_blank">Technical documentation</a>
+
 
 
 
