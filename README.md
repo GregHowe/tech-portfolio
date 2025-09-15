@@ -14,6 +14,11 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
    **README showcasing .NET Core code samples** <a href="code-samples/front-end-vue/README.md" target="_blank">vue-frontend</a> 
 <br><br>
 
+- 🐳 Docker Compose:
+
+   **README showcasing .NET Core code samples** <a href="code-samples/front-end-vue/README.md" target="_blank">vue-frontend</a> 
+<br><br>
+
 - 🧠 Architecture diagrams for distributed systems
 
   **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a>
@@ -29,6 +34,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
   **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a>
 <br><br>
   I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
