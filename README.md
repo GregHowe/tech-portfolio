@@ -21,8 +21,10 @@ Each sample demonstrates architectural patterns, exception handling, and compone
    **README showcasing Vue JS code samples** <a href="code-samples/front-end-vue/README.md" target="_blank">vue-frontend</a> 
 <br><br>
 
-- 🐳 Docker Compose:
+### 🐳 Docker Compose Samples
 
+Here I showcase how I use Docker Compose to orchestrate multi-service environments, ensuring parity between development and production.  
+These setups reflect my focus on modularity, hot reload, and smooth onboarding for teams.
    **README showcasing .dockerCompose samples** <a href="code-samples/integration-patterns/README.md" target="_blank">dockerCompose</a> 
 <br><br>
 
@@ -39,6 +41,7 @@ Each sample demonstrates architectural patterns, exception handling, and compone
 - 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
 
  
+
 
 
 
