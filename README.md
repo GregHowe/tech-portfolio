@@ -6,17 +6,17 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - ✅ Code samples in .NET Core and Vue:
 
-// AuthController.cs
+```
 [HttpPost("login")]
 public async Task<IActionResult> Login([FromBody] LoginDto dto)
 {
     var user = await _userService.Authenticate(dto.Email, dto.Password);
     if (user == null) return Unauthorized();
 
-    var token = _tokenService.GenerateJwt(user);
+    var token = tokenService.GenerateToken(user);
     return Ok(new { token });
 }
-
+```
 
 📦 Full repo: [CommerceCircle](https://github.com/GregHowe/CommerceCircle)
 
@@ -34,6 +34,7 @@ This sample shows how I implemented a multi-tenant loyalty API using .NET Core. 
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
