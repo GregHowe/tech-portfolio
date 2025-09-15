@@ -42,3 +42,6 @@ Production Architected Diagram
 ## 🐳 Full-Stack Architecture Diagram
 
 This diagram illustrates the flow of a client request through a Docker Compose–orchestrated system:
+
+<img width="989" height="688" alt="image" src="https://github.com/user-attachments/assets/de87af0a-b654-4cb0-abe8-7a8f34320894" />
+
