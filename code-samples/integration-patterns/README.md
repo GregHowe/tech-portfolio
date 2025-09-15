@@ -1,6 +1,17 @@
+### 🐳 Docker Compose Integration Pattern
 
-## 🐳 Docker Compose Integration Pattern
+This section demonstrates how I orchestrate multi-service environments using **Docker Compose**, ensuring environment parity, modular deployment, and smooth onboarding for developers.  
+The integration pattern shown here reflects a real-world setup used in Core 2.0, where services like the backend API, builder frontend, static site generator, and Azure-connected functions are containerized and coordinated locally.
 
+Key highlights include:
+- **Service composition** with isolated containers for backend, frontend, and background workers  
+- **Live development support** via mounted volumes and hot reload  
+- **Cloud integration** through secure injection of Azure credentials  
+- **Resilience and modularity** with restartable containers and CI-ready configurations
+
+This orchestration pattern supports both local development and integration testing, and reflects my architectural thinking around scalability, developer experience, and deployment consistency.
+
+<hr>
 
 📦 Full repo: [commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes/blob/main/docker-compose.yml)
  
