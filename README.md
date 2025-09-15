@@ -58,8 +58,8 @@ public sealed class BrandController : ControllerBase
 ```
 
 ```
-    // PUT api/brands/{brandId} uses UpdateBrandDTO to enforce input shape and validation.
-    [HttpPut("{brandId}")]
+// PUT api/brands/{brandId} uses UpdateBrandDTO to enforce input shape and validation.
+[HttpPut("{brandId}")]
     public async Task<IActionResult> UpdateBrand(int brandId, [FromBody] UpdateBrandDTO brand)
     {
         try
@@ -86,6 +86,7 @@ T
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
