@@ -14,7 +14,6 @@ These repositories highlight my ability to design clean, scalable solutions acro
 Each sample demonstrates architectural patterns, exception handling, and component design tailored for real-world applications.
  **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a> 
 
-<br><br>
 ### 🧩 Code Samples in Vue
 
 This section showcases my frontend development skills using **Vue 3**, **TypeScript**, and **Vite**.  
@@ -65,6 +64,7 @@ It reflects my commitment to clean code, naming conventions, testing strategies,
 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> 
 
  
+
 
 
 
