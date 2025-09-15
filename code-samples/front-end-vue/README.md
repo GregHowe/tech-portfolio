@@ -16,7 +16,7 @@ Show how you conditionally render components based on conditionals
 
 
 <br><br>
-📦 Modular Vuex Design The use of state, mutations, and actions in a dedicated brand.js file shows you're following Vuex best practices. It keeps the store maintainable and scalable.
+📦 Modular Vuex Design The use of state, mutations, and actions in a dedicated brand.js file shows you're following Vuex best practices. It keeps the store maintainable and scalable.<br><br>
 Async-Aware Action (loadBrand) You're fetching brand data via Axios and committing it to state — a clean separation of side effects and state mutation. This is ideal for onboarding flows or tenant-specific branding.
 
 <br>
