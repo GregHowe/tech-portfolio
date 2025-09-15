@@ -14,6 +14,7 @@ Vuetify Layout Leveraging v-row and v-col gives you responsive, grid-based layou
 
 <br><br>
 📦 Modular Vuex Design The use of state, mutations, and actions in a dedicated brand.js file shows you're following Vuex best practices. It keeps the store maintainable and scalable.
+Async-Aware Action (loadBrand) You're fetching brand data via Axios and committing it to state — a clean separation of side effects and state mutation. This is ideal for onboarding flows or tenant-specific branding.
 
 <br><br>
 <img width="449" height="683" alt="image" src="https://github.com/user-attachments/assets/54bbbe4a-bb01-47dc-803e-de98ecb3f278" />
