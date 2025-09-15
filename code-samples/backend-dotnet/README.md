@@ -99,6 +99,7 @@ public sealed class BrandController : ControllerBase
 
 
 
+
 Testability: “By abstracting the DbContext, we can inject mock implementations for unit testing without hitting the actual database.”
 
 Transaction Control: “The explicit transaction methods (BeginTransactionAsync, CommitTransactionAsync, RollbackTransaction) give us fine-grained control over multi-step operations — crucial for consistency in financial or critical workflows.”
