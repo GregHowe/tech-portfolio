@@ -29,19 +29,31 @@ These setups reflect my focus on modularity, hot reload, and smooth onboarding f
    **README showcasing .dockerCompose samples** <a href="code-samples/integration-patterns/README.md" target="_blank">dockerCompose</a> 
 <br><br>
 
-- 🧠 Architecture diagrams for distributed systems
+### 📐 Architecture Diagrams for Distributed Systems
+
+These diagrams illustrate how I structure systems for clarity, scalability, and maintainability.  
+Each visual is designed to communicate technical depth to both developers and non-technical stakeholders.
 
   **README showcasing Architecture diagrams** <a href="architecture-diagrams/README.md" target="_blank">Architecture diagrams</a>
 <br><br>
   
-- 📚 Case studies from real-world projects
+### 📄 Case Studies from Real-World Projects
+
+These case studies go beyond code — they tell the story behind each project: the problem, the solution, and the impact.  
+They reflect my ability to think strategically, adapt to constraints, and deliver results that matter.
+
 
   **README showcasing git Hub Projects** <a href="case-studies/README.md" target="_blank">git Hub Projects</a>
 <br><br>
 
-- 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
+### 📘 Coding Guidelines Template
+
+This document outlines the technical standards I apply across all projects.  
+It reflects my commitment to clean code, naming conventions, testing strategies, and maintainable architecture — designed to scale with teams and time.
+<a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> 
 
  
+
 
 
 
