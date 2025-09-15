@@ -139,4 +139,12 @@ The method is fully asynchronous, which supports scalability and responsiveness
 <br><br>
 <img width="975" height="176" alt="image" src="https://github.com/user-attachments/assets/9789c890-d1cc-4aac-b954-dff1f578cc3c" />
 
+<br><br>
+🧱This test method, Task_Should_Process_Event(), is a strong example of structured unit testing in C# using the Arrange–Act–Assert pattern. It demonstrates how you're validating asynchronous business logic with mocks, DTOs, and fluent assertions.
+The test is neatly divided into Arrange, Act, and Assert sections — making it easy to follow and maintain.
+
+
+<img width="849" height="980" alt="image" src="https://github.com/user-attachments/assets/6244b78d-2e11-4123-9031-03d13582246e" />
+
+
 
