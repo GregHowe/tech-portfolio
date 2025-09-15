@@ -111,7 +111,8 @@ Scalability & Maintainability: “This interface allows us to swap out the under
 // This design supports clean architecture principles by decoupling infrastructure from business logic.
 // It allows services and domain layers to depend on abstractions, not concrete implementations.
 
-<img width="438" height="263" alt="image" src="https://github.com/user-attachments/assets/64f2ac85-6e6e-40c8-a9c6-a98c034ff2ca" />
+<img width="446" height="246" alt="image" src="https://github.com/user-attachments/assets/7dce5e5d-a2e7-4d2f-b26a-7ac2f60bf358" />
+
 
 <br><br>
 This image showcases our use of code-first migrations in Entity Framework Core to manage database schema changes. Each migration is timestamped and descriptively named, enabling traceability and rollback across environments. The separation of migration files reflects a controlled evolution of the data model, aligned with CI/CD practices.
