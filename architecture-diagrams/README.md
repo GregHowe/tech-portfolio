@@ -32,4 +32,5 @@ Production Architected Diagram
 
 ⚙️ CI/CD Pipeline (GitHub Actions) → arrow into Docker Compose box
 <br><br>
-<img width="1536" height="1024" alt="Copilot_20250915_135202" src="https://github.com/user-attachments/assets/1be9f64b-75ff-42b6-a5df-9f4324bcf0d4" />
+<img width="1063" height="730" alt="image" src="https://github.com/user-attachments/assets/a2ed449d-26e3-4d66-a200-0ae3dec73d2d" />
+
