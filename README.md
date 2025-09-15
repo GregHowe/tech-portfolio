@@ -8,7 +8,7 @@ This portfolio is designed for recruiters, senior developers, and technical lead
 
 ## Table of Contents - 
 
-### 🟢 Code Samples in .NET Core and Vue
+### 🟢 Code Samples in .NET Core 
 
 These repositories highlight my ability to design clean, scalable solutions across backend layers.  
 Each sample demonstrates architectural patterns, exception handling, and component design tailored for real-world applications.
@@ -64,6 +64,7 @@ It reflects my commitment to clean code, naming conventions, testing strategies,
 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> 
 
  
+
 
 
 
