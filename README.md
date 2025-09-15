@@ -51,11 +51,13 @@ They reflect my ability to think strategically, adapt to constraints, and delive
 
 ### 📘 Coding Guidelines Template
 
-This document outlines the technical standards I apply across all projects.  
-It reflects my commitment to clean code, naming conventions, testing strategies, and maintainable architecture — designed to scale with teams and time.
+This section outlines the principles and conventions that guide my approach to writing clean, maintainable, and scalable code.  
+It reflects a commitment to consistency, clarity, and collaboration — helping teams align around shared standards and long-term quality.
+
 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> 
 
  
+
 
 
 
