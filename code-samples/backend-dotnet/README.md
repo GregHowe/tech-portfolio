@@ -1,4 +1,4 @@
-
+<img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/d6bc572f-7e9d-4ee6-afb0-e4da460d6097" />
 📦 Full repo: [Commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
 
 This controller demonstrates clean separation of concerns, secure access control, and scalable endpoint design. It’s part of a multi-tenant architecture where some brand data must be publicly accessible, while updates require authentication.
@@ -88,5 +88,11 @@ public sealed class BrandController : ControllerBase
         public Task UpdateBrand(int brandId, UpdateBrandDTO brand);
     }
 ```
+
+📦 Full repo: [Commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
+
+<img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/5a1c1c16-fe6f-4779-9ef6-93c21e514319" />
+
+
 
 T
