@@ -11,7 +11,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - 🧩 Code samples in Vue:
 
-   **README showcasing .NET Core code samples** <a href="code-samples/front-end-vue/README.md" target="_blank">vue-frontend</a> 
+   **README showcasing Vue JS code samples** <a href="code-samples/front-end-vue/README.md" target="_blank">vue-frontend</a> 
 <br><br>
 
 - 🐳 Docker Compose:
@@ -32,6 +32,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 - 📖 Technical documentation for onboarding and deployment
 
   **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a>
+
 
 
 
