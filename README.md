@@ -1,12 +1,19 @@
-# Tech-Portfolio
+# 🎯 Tech Portfolio – Richard
 
-A curated portfolio showcasing backend architecture, frontend integration, and remote-first engineering practices. Includes code samples, architecture diagrams, case studies, and technical documentation.
+Welcome to my curated portfolio, where I showcase not just code, but architectural thinking, strategic decisions, and professional standards.  
+Each section reflects my commitment to clarity, scalability, and developer empathy — whether it's backend orchestration, frontend integration, or documentation that speaks to both engineers and stakeholders.
+
+This portfolio is designed for recruiters, senior developers, and technical leads who value clean architecture, maintainable code, and thoughtful communication.
+
 
 ## Table of Contents - 
 
-- ✅ Code samples in .NET Core and Vue:
+### 🟢 Code Samples in .NET Core and Vue
 
-   **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a> 
+These repositories highlight my ability to design clean, scalable solutions across backend and frontend layers.  
+Each sample demonstrates architectural patterns, exception handling, and component design tailored for real-world applications.
+ **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a> 
+
 <br><br>
 
 - 🧩 Code samples in Vue:
@@ -32,6 +39,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 - 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
 
  
+
 
 
 
