@@ -22,4 +22,7 @@ Async-Aware Action (loadBrand) You're fetching brand data via Axios and committi
 <br>
 <img width="449" height="683" alt="image" src="https://github.com/user-attachments/assets/54bbbe4a-bb01-47dc-803e-de98ecb3f278" />
 
-
+<br><br>
+📦 This component manages a custom loading indicator for Nuxt page transitions and async operations. It supports granular control over animation state, success/failure feedback, and lifecycle cleanup — enhancing perceived performance and user trust.
+Lifecycle Awareness The use of beforeDestroy ensures cleanup — a sign of disciplined component lifecycle management.
+<img width="738" height="991" alt="image" src="https://github.com/user-attachments/assets/24ba54d9-36e8-4344-a194-bcf3d59c40ed" />
