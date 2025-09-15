@@ -15,8 +15,20 @@ Each sample demonstrates architectural patterns, exception handling, and compone
  **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a> 
 
 <br><br>
+### 🧩 Code Samples in Vue
 
-- 🧩 Code samples in Vue:
+This section showcases my frontend development skills using **Vue 3**, **TypeScript**, and **Vite**.  
+Each sample reflects my approach to building dynamic, reusable components that respond to user input at runtime — ideal for customizable interfaces and template-driven site builders.
+
+You'll find examples of:
+- Component composition and scoped styling  
+- Reactive data flows and state management  
+- Integration with REST APIs and backend services  
+- Clean folder structure and naming conventions  
+- Testing strategies and linting for maintainable code
+
+These samples are drawn from real-world projects, including Core.Builder, where I implemented dynamic rendering logic for user-generated commerce pages.
+
 
    **README showcasing Vue JS code samples** <a href="code-samples/front-end-vue/README.md" target="_blank">vue-frontend</a> 
 <br><br>
@@ -53,6 +65,7 @@ It reflects my commitment to clean code, naming conventions, testing strategies,
 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> 
 
  
+
 
 
 
