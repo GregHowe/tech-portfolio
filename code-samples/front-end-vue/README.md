@@ -3,7 +3,7 @@
 
 Core.Builder is the user-facing application of the Core system, and allows clients to author compliant sites, with automatic deployment:
 
-<br><br>
+<br>
 📦 Schema-Driven Rendering You're using v-for to iterate over schemaFields and dynamically generate v-select inputs. This pattern is powerful for building configurable UIs — especially in admin panels or CMS-like tools.
 
 Vuex Integration The use of mapState to pull fieldSchema and schemaFields from the store shows you're centralizing state and avoiding prop drilling. That’s a sign of scalable frontend architecture.
