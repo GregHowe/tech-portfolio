@@ -9,7 +9,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 ```
 // [Authorize] ensures that all endpoints require valid authentication tokens.
-/ Injecting IBrandService and ILogger promotes testability and separation of concerns.
+// Injecting IBrandService and ILogger promotes testability and separation of concerns.
 // BrandController remains thin — orchestration only, no business logic.
 
 [Route("api/brands")]
@@ -86,6 +86,7 @@ T
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
