@@ -30,3 +30,5 @@ The system was restructured to support clean separation of concerns, environment
 | **Testing**   | xUnit                                               |
 | **Versioning**| Git & GitHub                                        |
 | **Docs**      | Architecture diagrams, coding guidelines, case study|
+
+<hr>
