@@ -1,5 +1,4 @@
 
-🧩 Code Samples in Vue
 ### 🧩 Code Samples in Vue
 
 This section showcases my frontend development work using **Vue 3**, **TypeScript**, and **Vite**, with a focus on dynamic component rendering and schema-driven layouts.  
