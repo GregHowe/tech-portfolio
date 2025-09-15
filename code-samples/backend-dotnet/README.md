@@ -100,7 +100,7 @@ public sealed class BrandController : ControllerBase
 <br><br>
 
 
-🧱 Testability: “By abstracting the DbContext, we can inject mock implementations for unit testing without hitting the actual database.”
+🧱 IApplicationDbContext:  Testability: “By abstracting the DbContext, we can inject mock implementations for unit testing without hitting the actual database.”
 
 Transaction Control: “The explicit transaction methods (BeginTransactionAsync, CommitTransactionAsync, RollbackTransaction) give us fine-grained control over multi-step operations — crucial for consistency in financial or critical workflows.”
 
@@ -115,16 +115,16 @@ Scalability & Maintainability: “This interface allows us to swap out the under
 
 
 <br><br>
-This image showcases our use of code-first migrations in Entity Framework Core to manage database schema changes. Each migration is timestamped and descriptively named, enabling traceability and rollback across environments. The separation of migration files reflects a controlled evolution of the data model, aligned with CI/CD practices.
+🧱Migrations: This image showcases our use of code-first migrations in Entity Framework Core to manage database schema changes. Each migration is timestamped and descriptively named, enabling traceability and rollback across environments. The separation of migration files reflects a controlled evolution of the data model, aligned with CI/CD practices.
 
 <img width="808" height="554" alt="image" src="https://github.com/user-attachments/assets/ccc623cd-6cd8-473e-9370-8f47c45641b5" />
 
 <br><br>
-This class centralizes exception handling logic using a dictionary of exception types mapped to handler delegates. It enforces consistent HTTP responses across the API and cleanly separates error concerns from business logic.
+🧱Common Exception Handler: This class centralizes exception handling logic using a dictionary of exception types mapped to handler delegates. It enforces consistent HTTP responses across the API and cleanly separates error concerns from business logic.
 <br><br>
 <img width="778" height="957" alt="image" src="https://github.com/user-attachments/assets/12ea0a59-461e-4ccc-be4a-be084da856cd" />
 <br><br>
-Signals Intent Without Breaking Clients You’re guiding consumers away from outdated fields while keeping legacy integrations functional.
+🧱Deprecation: Signals Intent Without Breaking Clients You’re guiding consumers away from outdated fields while keeping legacy integrations functional.
 
 Supports Gradual Refactoring You can phase out fields over time, giving frontend teams or external consumers a chance to adapt.
 
