@@ -31,7 +31,10 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
   
 - 📖 Technical documentation for onboarding and deployment
 
-  **README showcasing Technical documentation** <a href="code-samples/backend-dotnet/README.md" target="_blank">Technical documentation</a>
+See  <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
+
+ 
+
 
 
 
