@@ -121,7 +121,7 @@ This image showcases our use of code-first migrations in Entity Framework Core t
 
 <br><br>
 This class centralizes exception handling logic using a dictionary of exception types mapped to handler delegates. It enforces consistent HTTP responses across the API and cleanly separates error concerns from business logic.
-<br>
+<br><br>
 <img width="778" height="957" alt="image" src="https://github.com/user-attachments/assets/12ea0a59-461e-4ccc-be4a-be084da856cd" />
 
 
