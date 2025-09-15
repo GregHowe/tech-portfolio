@@ -1,3 +1,6 @@
+## Cases Study
+
+<hr>
 ## 🧩 Case Study 1 – Migration from Legacy ERP to RESTful Architecture  
 🔗 [GitHub Repository](https://github.com/GregHowe/Migration-Legacy-To-RestApi)
 
