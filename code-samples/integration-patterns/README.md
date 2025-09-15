@@ -22,7 +22,8 @@ Each service is independently buildable and restartable, supporting CI workflows
 
 <img width="690" height="970" alt="image" src="https://github.com/user-attachments/assets/e13f9f61-48ef-4a30-9e74-54893abfc764" />
 
-
+<br>
+<hr>
 📦 Full repo: [Migration-Legacy-To-RestApi](https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/fullstack-dockerized/docker-compose.yml)
  
 
