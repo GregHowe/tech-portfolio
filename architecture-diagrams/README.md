@@ -1,5 +1,5 @@
 
-📦 Full repo: [CommerceCircle](https://github.com/GregHowe/CommerceCircle)
+📦 Full repo: [Migration-Legacy-To-RestApi](https://github.com/GregHowe/Migration-Legacy-To-RestApi)
 
 This sample shows how I implemented a multi-tenant loyalty API using .NET Core. It includes:
 - JWT authentication
