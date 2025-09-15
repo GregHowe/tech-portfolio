@@ -32,3 +32,40 @@ The system was restructured to support clean separation of concerns, environment
 | **Docs**      | Architecture diagrams, coding guidelines, case study|
 
 <hr>
+## 🧩 Case Study 2 – CommerceCircle: Loyalty Platform with Clean Architecture  
+🔗 [GitHub Repository](https://github.com/GregHowe/CommerceCircle)
+
+### 🧠 Problem  
+The client needed a scalable platform to promote customer loyalty through gamification strategies such as loyalty points, tiered levels, and reward triggers. The legacy system lacked modularity and flexibility to support evolving business rules.
+
+### 🛠 Solution  
+Designed and implemented a **Clean Architecture–based solution** in .NET 8.0, with clearly separated layers and asynchronous event processing. Key modules include:
+
+- **API Layer**: GraphQL-based entry point coordinating requests across layers  
+- **Application Layer**: Encapsulates business logic and use cases (e.g., BillPayment, Referral, Transaction)  
+- **Domain Layer**: Defines core entities, value objects, and enums  
+- **Infrastructure Layer**: Handles data access, external services (LoyaltiEngine, Wallet), and migrations  
+- **EventWorker**: Background service for event-driven tasks like notifications  
+- **Test Layer**: Comprehensive unit and integration testing across all layers
+
+The system integrates with Azure Functions, Kubernetes, and external APIs, and supports CI/CD pipelines for scalable deployment.
+
+### 🚀 Result  
+- Delivered a modular, testable, and scalable loyalty platform  
+- Enabled dynamic rule evaluation and multi-tenant event processing  
+- Improved maintainability and reduced coupling between services
+
+### 🧰 Tech Stack  
+
+| Layer         | Tools & Frameworks                                                                 |
+|---------------|-------------------------------------------------------------------------------------|
+| **Backend**   | .NET 8 (C#), ASP.NET Core, Entity Framework Core, SQL Server                       |
+| **Architecture**| Clean Architecture, GraphQL, MediatR, MassTransit, RulesEngine                   |
+| **DevOps**    | Docker, Kubernetes, Azure Functions                                                |
+| **Testing**   | xUnit, FluentValidation, Microsoft.NET.Test.Sdk, coverlet.collector                |
+| **Observability**| Serilog, Swashbuckle                                                             |
+| **Versioning**| Git & GitHub                                                                       |
+
+<hr>
+
+
