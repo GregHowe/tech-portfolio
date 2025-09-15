@@ -104,8 +104,6 @@ public sealed class BrandController : ControllerBase
 
 Transaction Control: “The explicit transaction methods (BeginTransactionAsync, CommitTransactionAsync, RollbackTransaction) give us fine-grained control over multi-step operations — crucial for consistency in financial or critical workflows.”
 
-CQRS Alignment: “The separation of read models (GetBrandListDTO, etc.) from write models (UpdateBrandDTO) supports CQRS principles, even within EF Core.”
-
 Scalability & Maintainability: “This interface allows us to swap out the underlying persistence layer (e.g., switch from EF Core to Dapper or Cosmos DB) with minimal impact on the application logic.”
 
 
