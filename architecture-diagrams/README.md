@@ -14,3 +14,6 @@ All services are containerized and orchestrated via Docker Compose for local dev
 
 > 📦 *Pattern: Tiered Architecture + Secure Config + Environment Parity*
 
+<img width="640" height="366" alt="image" src="https://github.com/user-attachments/assets/b309b07f-ea9c-430a-aaa3-58c5ae9a0f27" />
+
+
