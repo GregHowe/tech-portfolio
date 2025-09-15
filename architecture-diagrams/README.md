@@ -44,8 +44,8 @@ Production Architected Diagram
 This diagram illustrates the architecture of Core 2.0, a multi-application platform designed for franchisees to author and deploy compliant static websites. It showcases the local orchestration via Docker Compose, the event-driven communication through Azure Service Bus, and the interaction between frontend, backend, and static site generation components. Each service is containerized and designed for modularity, scalability, and integration with Azure cloud infrastructure. This layout reflects my architectural thinking around separation of concerns, CI/CD readiness, and developer experience optimization.
 
 Components: 
-Client	End-user accessing the platform via browser.
-Core.Builder	Nuxt-based frontend for authoring compliant static sites.
+### Client	End-user accessing the platform via browser.
+### Core.Builder	Nuxt-based frontend for authoring compliant static sites.
 Core.Backend	.NET 6 API exposing REST endpoints and managing business logic and data.
 Core.DotnetFunctions	Azure Functions app for ingesting external user feeds and applying business rules.
 Core.Generator	Nuxt-based static site generator triggered by publish events from Core.Builder.
