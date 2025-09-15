@@ -21,6 +21,7 @@ Local Architected Diagram
 <br><br>
 
 Production Architected Diagram
+<br>
 🔐 Auth0 / IdentityServer → connected to Backend
 
 🌐 Load Balancer (Nginx / ELB) → in front of Backend
