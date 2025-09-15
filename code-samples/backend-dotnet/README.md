@@ -74,4 +74,19 @@ public sealed class BrandController : ControllerBase
     }
 ```
 
+
+```
+// IBrandService defines the contract for brand-related data operations.
+// It promotes separation of concerns by abstracting persistence logic from controllers.
+// Each method is asynchronous, supporting scalable, non-blocking I/O operations.
+
+    public interface IBrandService
+    {
+        public Task<IEnumerable<GetBrandListDTO>> GetBrandList();
+        public Task<GetBrandDTO> GetBrand(int brandId);
+        public Task<GetBrandDTO> GetBrandByHost(string host);
+        public Task UpdateBrand(int brandId, UpdateBrandDTO brand);
+    }
+```
+
 T
