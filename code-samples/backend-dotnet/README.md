@@ -133,7 +133,9 @@ Aligns With Semantic Versioning You’re communicating change without forcing a 
 <img width="707" height="444" alt="image" src="https://github.com/user-attachments/assets/e5a0ee5d-dc8c-498e-8849-b51c1b3e678d" />
 
 <br><br>
-HOla
+Your services and handlers depend on an interface, not a concrete DbContext. That’s textbook Dependency Inversion Principle — clean architecture in action.
+You're using FirstOrDefaultAsync with three conditions: user ID, terms ID, and acceptance status. That’s tight, intentional filtering — no wasted reads. 
+The method is fully asynchronous, which supports scalability and responsiveness
 <br><br>
 <img width="975" height="176" alt="image" src="https://github.com/user-attachments/assets/9789c890-d1cc-4aac-b954-dff1f578cc3c" />
 
