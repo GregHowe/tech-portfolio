@@ -25,6 +25,7 @@ Each sample demonstrates architectural patterns, exception handling, and compone
 
 Here I showcase how I use Docker Compose to orchestrate multi-service environments, ensuring parity between development and production.  
 These setups reflect my focus on modularity, hot reload, and smooth onboarding for teams.
+<br>
    **README showcasing .dockerCompose samples** <a href="code-samples/integration-patterns/README.md" target="_blank">dockerCompose</a> 
 <br><br>
 
@@ -41,6 +42,7 @@ These setups reflect my focus on modularity, hot reload, and smooth onboarding f
 - 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
 
  
+
 
 
 
