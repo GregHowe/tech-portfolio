@@ -89,7 +89,7 @@ public sealed class BrandController : ControllerBase
     }
 ```
 
-
+<br><br>
 📦 Full repo: [Commerce-Circle](https://github.com/GregHowe/CommerceCircle)
 
 📁 GraphQL Folder Structure (CQRS Applied)
