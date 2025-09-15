@@ -19,7 +19,6 @@ Local Architected Diagram
 <img width="640" height="366" alt="image" src="https://github.com/user-attachments/assets/b309b07f-ea9c-430a-aaa3-58c5ae9a0f27" />
 
 <br><br>
-
 Production Architected Diagram
 <br>
 🔐 Auth0 / IdentityServer → connected to Backend
@@ -31,5 +30,5 @@ Production Architected Diagram
 🛡️ VPC → wrap all cloud components in a grey box labeled "Secure Cloud Network"
 
 ⚙️ CI/CD Pipeline (GitHub Actions) → arrow into Docker Compose box
-
+<br><br>
 <img width="1536" height="1024" alt="Copilot_20250915_135202" src="https://github.com/user-attachments/assets/1be9f64b-75ff-42b6-a5df-9f4324bcf0d4" />
