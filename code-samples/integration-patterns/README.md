@@ -1,8 +1,9 @@
 
-📦 Full repo: [commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes/blob/main/docker-compose.yml)
- 
 ## 🐳 Docker Compose Integration Pattern
 
+
+📦 Full repo: [commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes/blob/main/docker-compose.yml)
+ 
 This `docker-compose.yml` orchestrates multiple services for local development and integration testing:
 
 - 🟢 `backend`: .NET Core API with exposed port `8080`
@@ -20,3 +21,8 @@ Each service is independently buildable and restartable, supporting CI workflows
 
 
 <img width="690" height="970" alt="image" src="https://github.com/user-attachments/assets/e13f9f61-48ef-4a30-9e74-54893abfc764" />
+
+
+📦 Full repo: [Migration-Legacy-To-RestApi](https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/fullstack-dockerized/docker-compose.yml)
+ 
+
