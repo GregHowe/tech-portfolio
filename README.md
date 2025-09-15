@@ -6,7 +6,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - ✅ Code samples in .NET Core and Vue:
 
-**README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a> 
+   **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a> 
 
 
 
@@ -16,6 +16,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
