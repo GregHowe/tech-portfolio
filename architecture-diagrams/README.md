@@ -19,6 +19,7 @@ Local Architected Diagram
 <img width="640" height="366" alt="image" src="https://github.com/user-attachments/assets/b309b07f-ea9c-430a-aaa3-58c5ae9a0f27" />
 
 <br>
+
 Production Architected Diagram
 🔐 Auth0 / IdentityServer → connected to Backend
 
