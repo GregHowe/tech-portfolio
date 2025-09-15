@@ -1,6 +1,19 @@
 
 ### 🟢 Code Samples in .NET Core:
 
+This section showcases my backend development skills using **.NET Core**, with a focus on clean architecture, secure access control, and scalable endpoint design.  
+Each code sample reflects my commitment to separation of concerns, testability, and maintainable service orchestration — especially in multi-tenant environments.
+
+You'll find examples of:
+- RESTful controllers with minimal logic and injected services  
+- Authorization strategies for scoped access  
+- Integration with Entity Framework Core and SQL Server  
+- Modular layering for domain, application, and infrastructure  
+- Unit and integration testing using xUnit
+
+These samples are drawn from real-world projects where I designed APIs that are not only functional, but also extensible and easy to onboard for teams.
+
+
 📦 Full repo: [Commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes/tree/main/Core.Backend)
 
 This controller demonstrates clean separation of concerns, secure access control, and scalable endpoint design. It’s part of a multi-tenant architecture where some brand data must be publicly accessible, while updates require authentication.
