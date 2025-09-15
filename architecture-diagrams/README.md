@@ -50,12 +50,18 @@ End-user accessing the platform via browser.
 Nuxt-based frontend for authoring compliant static sites.
 ### Core.Backend	
 .NET 6 API exposing REST endpoints and managing business logic and data.
-Core.DotnetFunctions	Azure Functions app for ingesting external user feeds and applying business rules.
-Core.Generator	Nuxt-based static site generator triggered by publish events from Core.Builder.
-Core.Library	Shared components and utilities used by Builder and Generator.
-Core.E2E	End-to-end testing suite for validating system integrity before production release.
-Azure Service Bus	Event-driven messaging layer coordinating communication between backend services.
-Docker Compose	Local orchestration tool for spinning up all services in isolated containers.
+### Core.DotnetFunctions	
+Azure Functions app for ingesting external user feeds and applying business rules.
+### Core.Generator	
+Nuxt-based static site generator triggered by publish events from Core.Builder.
+### Core.Library	
+Shared components and utilities used by Builder and Generator.
+### Core.E2E	
+End-to-end testing suite for validating system integrity before production release.
+### Azure Service Bus	
+Event-driven messaging layer coordinating communication between backend services.
+### Docker Compose	
+Local orchestration tool for spinning up all services in isolated containers.
 
 
 <img width="989" height="688" alt="image" src="https://github.com/user-attachments/assets/de87af0a-b654-4cb0-abe8-7a8f34320894" />
