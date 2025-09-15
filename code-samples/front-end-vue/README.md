@@ -27,3 +27,8 @@ Async-Aware Action (loadBrand) You're fetching brand data via Axios and committi
 Lifecycle Awareness The use of beforeDestroy ensures cleanup — a sign of disciplined component lifecycle management.
 <br><br>
 <img width="738" height="991" alt="image" src="https://github.com/user-attachments/assets/24ba54d9-36e8-4344-a194-bcf3d59c40ed" />
+
+<br><br>
+📦 
+<br><br>
+<img width="667" height="732" alt="image" src="https://github.com/user-attachments/assets/58c1e3d9-93a1-403c-896b-ce9b4d6e1ab6" />
