@@ -27,6 +27,24 @@ public sealed class BrandController : ControllerBase
 }
 ```
 
+```
+// / Use [AllowAnonymous] selectively to expose public endpoints like GetBrandByHost.
+    [AllowAnonymous]
+    [HttpGet("{brandId}", Name = "BrandById")]
+    public async Task<IActionResult> GetBrand(int brandId)
+    {
+        try
+        {
+            var brand = await _brandRepo.GetBrand(brandId);
+            return Ok(brand);
+        }
+        catch (Exception ex)
+        {
+            return ex.PackageExceptionResponse(_logger);
+        }
+    }
+```
+
 📦 Full repo: [CommerceCircle](https://github.com/GregHowe/CommerceCircle)
 
 T
@@ -39,6 +57,7 @@ T
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
