@@ -31,9 +31,10 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
   
 - 📖 Technical documentation for onboarding and deployment
 
-See  <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
+- 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
 
  
+
 
 
 
