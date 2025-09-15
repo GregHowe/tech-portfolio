@@ -1,4 +1,4 @@
-# tech-portfolio
+# Tech-Portfolio
 
 A curated portfolio showcasing backend architecture, frontend integration, and remote-first engineering practices. Includes code samples, architecture diagrams, case studies, and technical documentation.
 
@@ -32,6 +32,7 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 - 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
 
  
+
 
 
 
