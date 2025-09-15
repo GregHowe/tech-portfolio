@@ -29,6 +29,6 @@ Lifecycle Awareness The use of beforeDestroy ensures cleanup — a sign of disci
 <img width="738" height="991" alt="image" src="https://github.com/user-attachments/assets/24ba54d9-36e8-4344-a194-bcf3d59c40ed" />
 
 <br><br>
-📦 
+📦 This test suite validates schema-driven rendering of the DrawerSettingsPage component. It uses dependency injection to simulate real-world usage and ensures all dynamic fields are present in the DOM. The tests are structured for reusability and accessibility-first validation
 <br><br>
 <img width="667" height="732" alt="image" src="https://github.com/user-attachments/assets/58c1e3d9-93a1-403c-896b-ce9b4d6e1ab6" />
