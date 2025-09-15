@@ -1,4 +1,8 @@
-## Cases Study
+### 📄 Case Studies
+
+This section presents a curated selection of real-world projects that reflect my approach to software architecture, problem-solving, and strategic delivery.  
+Each case study is designed to highlight not just what was built, but why — offering insight into the decisions, patterns, and outcomes that shaped each solution.  
+Whether you're a recruiter, technical lead, or fellow developer, these examples aim to communicate clarity, intent, and impact.
 
 <hr>
 ## 🧩 Case Study 1 – Migration from Legacy ERP to RESTful Architecture  
