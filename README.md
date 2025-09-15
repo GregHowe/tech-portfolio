@@ -6,9 +6,11 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - ✅ Code samples in .NET Core and Vue:
 
-// [Authorize] ensures that all endpoints require valid authentication tokens.
-```
 
+```
+// [Authorize] ensures that all endpoints require valid authentication tokens.
+/ Injecting IBrandService and ILogger promotes testability and separation of concerns.
+// BrandController remains thin — orchestration only, no business logic.
 
 [Route("api/brands")]
 [ApiController]
@@ -29,15 +31,41 @@ public sealed class BrandController : ControllerBase
 ```
 
 ```
-// / Use [AllowAnonymous] selectively to expose public endpoints like GetBrandByHost.
+// Use [AllowAnonymous] selectively to expose public endpoints like GetBrandByHost.
+// GET api/brands/by/host supports dynamic brand resolution based on request context.
+// Useful for multi-tenant setups or domain-based branding.
+
     [AllowAnonymous]
-    [HttpGet("{brandId}", Name = "BrandById")]
-    public async Task<IActionResult> GetBrand(int brandId)
+    [HttpGet("by/host", Name = "BrandByHost")]
+    public async Task<IActionResult> GetBrandByHost()
     {
         try
         {
-            var brand = await _brandRepo.GetBrand(brandId);
-            return Ok(brand);
+            var header = Request.GetTypedHeaders().Referer;
+
+            if (header != null && !string.IsNullOrWhiteSpace(header.Host))
+                return Ok(
+                    await 
+                    _brandRepo.GetBrandByHost(header.Host.ToLower().ToString()));
+            else
+                return Ok(null);
+        }
+        catch (Exception ex)
+        {
+            return ex.PackageExceptionResponse(_logger);
+        }
+    }
+```
+
+```
+    // PUT api/brands/{brandId} uses UpdateBrandDTO to enforce input shape and validation.
+    [HttpPut("{brandId}")]
+    public async Task<IActionResult> UpdateBrand(int brandId, [FromBody] UpdateBrandDTO brand)
+    {
+        try
+        {
+            await _brandRepo.UpdateBrand(brandId, brand);
+            return NoContent();
         }
         catch (Exception ex)
         {
