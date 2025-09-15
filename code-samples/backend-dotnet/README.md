@@ -126,9 +126,6 @@ Scalability & Maintainability: “This interface allows us to swap out the under
 <img width="778" height="957" alt="image" src="https://github.com/user-attachments/assets/12ea0a59-461e-4ccc-be4a-be084da856cd" />
 <br><br>
 🧱Deprecation: Signals Intent Without Breaking Clients You’re guiding consumers away from outdated fields while keeping legacy integrations functional.
-
-Supports Gradual Refactoring You can phase out fields over time, giving frontend teams or external consumers a chance to adapt.
-
 Improves Schema Documentation The deprecation message acts like an inline comment for API consumers — it’s self-documenting and discoverable via introspection tools like GraphQL Playground or Apollo Studio.
 
 Aligns With Semantic Versioning You’re communicating change without forcing a major version bump or breaking change.
