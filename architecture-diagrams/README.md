@@ -1,7 +1,9 @@
 
+## 🐳 Full-Stack Architecture Diagram
+
 📦 Full repo: [Migration-Legacy-To-RestApi](https://github.com/GregHowe/Migration-Legacy-To-RestApi)
 
-## 🐳 Full-Stack Architecture Diagram
+## 🐳 1- Full-Stack Architecture Diagram
 
 This diagram illustrates the flow of a client request through a Docker Compose–orchestrated system:
 
@@ -39,7 +41,7 @@ Production Architected Diagram
 📦 Full repo: [commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
 
 
-## 🐳 Full-Stack Architecture Diagram
+## 🐳 2 - Full-Stack Architecture Diagram
 
 This diagram illustrates the architecture of Core 2.0, a multi-application platform designed for franchisees to author and deploy compliant static websites. It showcases the local orchestration via Docker Compose, the event-driven communication through Azure Service Bus, and the interaction between frontend, backend, and static site generation components. Each service is containerized and designed for modularity, scalability, and integration with Azure cloud infrastructure. This layout reflects my architectural thinking around separation of concerns, CI/CD readiness, and developer experience optimization.
 
