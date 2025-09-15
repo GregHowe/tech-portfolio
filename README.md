@@ -21,17 +21,18 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - 🧠 Architecture diagrams for distributed systems
 
-  **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a>
+  **README showcasing Architecture diagrams** <a href="code-samples/backend-dotnet/README.md" target="_blank">Architecture diagrams</a>
 <br><br>
   
 - 📚 Case studies from real-world projects
 
-  **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a>
+  **README showcasing git Hub Projects** <a href="code-samples/backend-dotnet/README.md" target="_blank">git Hub Projects</a>
 <br><br>
   
 - 📖 Technical documentation for onboarding and deployment
 
-  **README showcasing .NET Core code samples** <a href="code-samples/backend-dotnet/README.md" target="_blank">backend-dotnet</a>
+  **README showcasing Technical documentation** <a href="code-samples/backend-dotnet/README.md" target="_blank">Technical documentation</a>
+
 
 
 
