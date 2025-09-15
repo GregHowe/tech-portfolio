@@ -26,12 +26,13 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
   
 - 📚 Case studies from real-world projects
 
-  **README showcasing git Hub Projects** <a href="code-samples/backend-dotnet/README.md" target="_blank">git Hub Projects</a>
+  **README showcasing git Hub Projects** <a href="case-studies/README.md" target="_blank">git Hub Projects</a>
 <br><br>
 
 - 🧠 <a href="https://github.com/GregHowe/Migration-Legacy-To-RestApi/blob/main/docs/coding-guidelines-template.pdf" target="_blank">Coding Guidelines Template</a> This document shows you understand best practices and team conventions
 
  
+
 
 
 
