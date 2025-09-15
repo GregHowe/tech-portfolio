@@ -7,6 +7,9 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 - ✅ Code samples in .NET Core and Vue:
 
 
+This controller demonstrates clean separation of concerns, secure access control, and scalable endpoint design. It’s part of a multi-tenant architecture where some brand data must be publicly accessible, while updates require authentication.
+
+
 ```
 // [Authorize] ensures that all endpoints require valid authentication tokens.
 // Injecting IBrandService and ILogger promotes testability and separation of concerns.
@@ -77,6 +80,7 @@ public sealed class BrandController : ControllerBase
     }
 ```
 
+
 📦 Full repo: [CommerceCircle](https://github.com/GregHowe/CommerceCircle)
 
 T
@@ -89,6 +93,7 @@ T
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
