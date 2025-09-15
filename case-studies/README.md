@@ -68,8 +68,8 @@ The system integrates with Azure Functions, Kubernetes, and external APIs, and s
 
 <hr>
 
-## 🧩 Case Study 3 – Core 2.0: Dynamic Site Builder for Franchise Networks  
-🔗 [GitHub Repository – Internal Project Reference]
+## 🧩 Case Study 3 – Core 2.0: Dynamic Site Builder   
+🔗 [GitHub Repository – Internal Project Reference](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
 
 ### 🧠 Problem  
 Franchisees needed a way to create branded, compliant marketing websites without technical expertise. The system had to support dynamic content, template-based customization, and seamless deployment — all while respecting brand guidelines and user roles.
