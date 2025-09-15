@@ -90,7 +90,7 @@ public sealed class BrandController : ControllerBase
 ```
 
 
-📦 Full repo: [Commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
+📦 Full repo: [Commerce-Circle](https://github.com/GregHowe/CommerceCircle)
 
 📁 GraphQL Folder Structure (CQRS Applied)
     This image illustrates the separation of Queries and Mutations in our GraphQL API, following the CQRS (Command Query Responsibility Segregation) pattern. Each folder encapsulates its respective read or write operations, promoting modularity, scalability, and clearer team collaboration.
@@ -98,6 +98,21 @@ public sealed class BrandController : ControllerBase
   <img width="431" height="512" alt="image" src="https://github.com/user-attachments/assets/d3834ee7-ae6f-4093-a12a-bc0320c992c7" />
 
 
+
+Testability: “By abstracting the DbContext, we can inject mock implementations for unit testing without hitting the actual database.”
+
+Transaction Control: “The explicit transaction methods (BeginTransactionAsync, CommitTransactionAsync, RollbackTransaction) give us fine-grained control over multi-step operations — crucial for consistency in financial or critical workflows.”
+
+CQRS Alignment: “The separation of read models (GetBrandListDTO, etc.) from write models (UpdateBrandDTO) supports CQRS principles, even within EF Core.”
+
+Scalability & Maintainability: “This interface allows us to swap out the underlying persistence layer (e.g., switch from EF Core to Dapper or Cosmos DB) with minimal impact on the application logic.”
+
+
+// IApplicationDbContext abstracts the EF Core DbContext to enable dependency injection and mocking.
+// This design supports clean architecture principles by decoupling infrastructure from business logic.
+// It allows services and domain layers to depend on abstractions, not concrete implementations.
+
+<img width="438" height="263" alt="image" src="https://github.com/user-attachments/assets/64f2ac85-6e6e-40c8-a9c6-a98c034ff2ca" />
 
 
 T
