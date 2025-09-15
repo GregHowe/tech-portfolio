@@ -10,6 +10,7 @@ Vuex Integration The use of mapState to pull fieldSchema and schemaFields from t
 
 Vuetify Layout Leveraging v-row and v-col gives you responsive, grid-based layout out of the box. It’s clean, declarative, and visually consistent.
 
-<img width="745" height="1118" alt="image" src="https://github.com/user-attachments/assets/f4970cda-33f8-4347-a3be-b1ab2f9851d2" />
+<img width="606" height="924" alt="image" src="https://github.com/user-attachments/assets/31889441-889a-4f27-868b-4e3bcf912014" />
+
 
 
