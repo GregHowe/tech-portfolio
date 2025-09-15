@@ -34,6 +34,7 @@ public sealed class BrandController : ControllerBase
 // Use [AllowAnonymous] selectively to expose public endpoints like GetBrandByHost.
 // GET api/brands/by/host supports dynamic brand resolution based on request context.
 // Useful for multi-tenant setups or domain-based branding.
+// Error handling rationale “Centralized exception packaging via PackageExceptionResponse ensures consistent logging and client feedback.”
 
     [AllowAnonymous]
     [HttpGet("by/host", Name = "BrandByHost")]
@@ -59,6 +60,8 @@ public sealed class BrandController : ControllerBase
 
 ```
 // PUT api/brands/{brandId} uses UpdateBrandDTO to enforce input shape and validation.
+// Using UpdateBrandDTO enforces input validation and decouples domain logic from transport concerns.”
+
 [HttpPut("{brandId}")]
     public async Task<IActionResult> UpdateBrand(int brandId, [FromBody] UpdateBrandDTO brand)
     {
@@ -86,6 +89,7 @@ T
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
