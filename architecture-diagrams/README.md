@@ -1,16 +1,10 @@
 
 ### 🧩 Full-Stack Architecture Diagram
 
-This section presents a visual overview of how I structure full-stack applications using **Vue.js**, **.NET Core**, and **PostgreSQL**, all orchestrated via **Docker Compose**.  
-The diagram reflects a real-world setup from the [Migration-Legacy-To-RestApi](https://github.com/GregHowe/Migration-Legacy-To-RestApi) project, where each layer is containerized to support local development, integration testing, and deployment parity.
+This section presents a visual overview of how I approach full-stack system design.  
+It reflects my commitment to clarity, modularity, and maintainability — ensuring that each layer communicates its role effectively and supports scalable development.  
+The diagram is crafted to be accessible to both technical and non-technical audiences, bridging architecture with practical implementation.
 
-Key components include:
-- **🖥️ Browser**: Initiates client requests to the UI  
-- **🔵 Frontend (Vue.js)**: Serves the interface on port `8888`  
-- **🟢 Backend (.NET Core)**: Handles business logic, JWT authentication, and DB access on port `5000`  
-- **🔴 Database (PostgreSQL)**: Stores persistent data on port `5432` with volume `dbdata`  
-
-This architecture demonstrates my ability to design modular, scalable systems with clear separation of concerns — making them easy to onboard, test, and evolve.
 
 <hr>
 
