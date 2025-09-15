@@ -12,5 +12,8 @@ Vuetify Layout Leveraging v-row and v-col gives you responsive, grid-based layou
 
 <img width="606" height="924" alt="image" src="https://github.com/user-attachments/assets/31889441-889a-4f27-868b-4e3bcf912014" />
 
+<br><br>
+📦 Modular Vuex Design The use of state, mutations, and actions in a dedicated brand.js file shows you're following Vuex best practices. It keeps the store maintainable and scalable.
+<img width="449" height="683" alt="image" src="https://github.com/user-attachments/assets/54bbbe4a-bb01-47dc-803e-de98ecb3f278" />
 
 
