@@ -113,5 +113,8 @@ Scalability & Maintainability: “This interface allows us to swap out the under
 
 <img width="438" height="263" alt="image" src="https://github.com/user-attachments/assets/64f2ac85-6e6e-40c8-a9c6-a98c034ff2ca" />
 
+<br><br>
+This image showcases our use of code-first migrations in Entity Framework Core to manage database schema changes. Each migration is timestamped and descriptively named, enabling traceability and rollback across environments. The separation of migration files reflects a controlled evolution of the data model, aligned with CI/CD practices.
 
-T
+<img width="808" height="554" alt="image" src="https://github.com/user-attachments/assets/ccc623cd-6cd8-473e-9370-8f47c45641b5" />
+
