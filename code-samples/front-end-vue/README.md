@@ -4,7 +4,7 @@
 
 This section showcases my frontend development work using **Vue 3**, **TypeScript**, and **Vite**, with a focus on dynamic component rendering and schema-driven layouts.  
 The samples reflect my ability to build responsive, customizable interfaces that adapt to user input in real time — ideal for platforms like Core.Builder, where users generate commerce pages based on templates.
-
+<hr>
 Key highlights include:
 - **Schema-driven rendering** using `v-for` and `v-model` for dynamic form generation  
 - **Centralized state management** via Vuex and `mapState` for predictable data flow  
