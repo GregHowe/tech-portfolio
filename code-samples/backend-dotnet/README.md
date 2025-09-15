@@ -91,7 +91,11 @@ public sealed class BrandController : ControllerBase
 
 📦 Full repo: [Commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
 
-<img width="338" height="400" alt="image" src="https://github.com/user-attachments/assets/5a1c1c16-fe6f-4779-9ef6-93c21e514319" />
+📁 GraphQL Folder Structure (CQRS Applied)
+    This image illustrates the separation of Queries and Mutations in our GraphQL API, following the CQRS (Command Query Responsibility Segregation) pattern. Each folder encapsulates its respective read or write operations, promoting modularity, scalability, and clearer team collaboration.
+
+<img width="431" height="512" alt="image" src="https://github.com/user-attachments/assets/d3834ee7-ae6f-4093-a12a-bc0320c992c7" />
+
 
 
 
