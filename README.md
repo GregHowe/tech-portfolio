@@ -6,8 +6,9 @@ A curated portfolio showcasing backend architecture, frontend integration, and r
 
 - ✅ Code samples in .NET Core and Vue:
 
-```
 // [Authorize] ensures that all endpoints require valid authentication tokens.
+```
+
 
 [Route("api/brands")]
 [ApiController]
@@ -57,6 +58,7 @@ T
 - 📖 Technical documentation for onboarding and deployment
 
 I focus on scalable, secure, and maintainable solutions that align with product goals and user needs.
+
 
 
 
