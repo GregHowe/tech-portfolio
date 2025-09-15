@@ -12,7 +12,8 @@ Vuetify Layout Leveraging v-row and v-col gives you responsive, grid-based layou
 <br><br>
 Show how you conditionally render components based on conditionals
 <br><br>
-<img width="606" height="924" alt="image" src="https://github.com/user-attachments/assets/31889441-889a-4f27-868b-4e3bcf912014" />
+<img width="660" height="984" alt="image" src="https://github.com/user-attachments/assets/4aa43abf-305a-45b9-86c4-396b1011b2f4" />
+
 
 <br><br>
 📦 Modular Vuex Design The use of state, mutations, and actions in a dedicated brand.js file shows you're following Vuex best practices. It keeps the store maintainable and scalable.
