@@ -45,5 +45,8 @@ Secure variables for database access and JWT authentication are passed via `envi
 
 > 📦 *Pattern: Local Integration + Secure Config + Tiered Architecture*
 
+<img width="812" height="936" alt="image" src="https://github.com/user-attachments/assets/e12edcdb-878d-4bf3-84bc-6a84d00c27c6" />
+
+
  
 
