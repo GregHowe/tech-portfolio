@@ -34,3 +34,11 @@ Production Architected Diagram
 <br><br>
 <img width="1063" height="730" alt="image" src="https://github.com/user-attachments/assets/a2ed449d-26e3-4d66-a200-0ae3dec73d2d" />
 
+<hr>
+
+📦 Full repo: [commerce-platform-fullstack-Dacodes](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
+
+
+## 🐳 Full-Stack Architecture Diagram
+
+This diagram illustrates the flow of a client request through a Docker Compose–orchestrated system:
