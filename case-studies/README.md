@@ -40,7 +40,7 @@ The system was restructured to support clean separation of concerns, environment
 
 <hr>
 
-## 🧩 Case Study 3 – Core 2.0: Dynamic Site Builder   
+## 🧩 Case Study 2 – Core 2.0: Dynamic Site Builder   
 🔗 [GitHub Repository – Internal Project Reference](https://github.com/GregHowe/commerce-platform-fullstack-Dacodes)
 
 ### 🧠 Problem  
@@ -75,7 +75,7 @@ The Builder was designed to empower users to author and deploy static sites with
 
 <hr>
 
-## 🧩 Case Study 2 – CommerceCircle: Loyalty Platform with Clean Architecture  
+## 🧩 Case Study 3 – CommerceCircle: Loyalty Platform with Clean Architecture  
 🔗 [GitHub Repository](https://github.com/GregHowe/CommerceCircle)
 
 ### 🧠 Problem  
